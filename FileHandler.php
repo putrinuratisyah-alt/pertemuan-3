@@ -26,3 +26,4 @@ $f = new FileHandler("output.txt");
 $f->write("Halo, ini baris pertama\n");
 $f->write("Ini baris kedua\n");
 echo "Selesai menulis ke file\n";
+
